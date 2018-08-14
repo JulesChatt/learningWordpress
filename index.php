@@ -18,7 +18,7 @@ if(have_posts()) :
 
     endif;
 
-g_footer();
+get_footer();
 
 
 
